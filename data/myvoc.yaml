@@ -1,0 +1,10 @@
+train: /home/PycharmProject/WYZ/yolov5/Tree/Train1700/train.txt
+val: /home/PycharmProject/WYZ/yolov5/Tree/Train1700/val.txt
+
+test: /home/PycharmProject/WYZ/yolov5/Tree/Test160/train.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ["Tree"]
