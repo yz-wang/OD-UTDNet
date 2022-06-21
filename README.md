@@ -36,10 +36,9 @@ For packages, see requirements.txt.
 - Install PyTorch 1.6 or above and other dependencies (e.g., torchvision, visdom, dominate, gputil).
 
   For pip users, please type the command `pip install -r requirements.txt`.
-
-  For Conda users,  you can create a new Conda environment using `conda env create -f environment.yml`.
   
-### UTD Dataset
+  
+## UTD Dataset
 
 - Our UTD dataset is available at:
 1. Baidu Netdisk: https://pan.baidu.com/s/1TSY340mG2UvPNbbQh5MkbQ           
@@ -49,7 +48,7 @@ Code: xs7t
 
 - You should first convert the images and annotations to YOLO labels.
   
-### OD-UTDNet Training and Test
+## OD-UTDNet Training and Test
 
 - Train the OD-UTDNet model:
 ```bash
@@ -69,12 +68,12 @@ python detect.py --source ./Tree/Test160/images --weights ./runs/train/exp/weigh
 ```
 The detect results will be saved to an html file here: `./runs/detect/exp`.
 
-### Detection Results
+## Detection Results
 UTD test set:
 
 ![image](image/fig1.png)
 
-### Acknowledgments
+## Acknowledgments
 Our code is developed based on [pytorch-YOLOv5](https://github.com/ultralytics/yolov5/tree/v4.0). We thank the awesome work provided by YOLOv5.
 And great thanks to the anonymous reviewers for their helpful feedback.
 
