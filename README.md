@@ -63,7 +63,7 @@ python test.py --data myvoc.yaml --weights ./runs/train/exp/weights/best.pt --ta
 ```
 The test results will be saved to an html file here: `./runs/test/exp`.
 
-- Detect the Tree images (Output images):
+- Detect the Tree images (Output detecting images):
 ```bash
 python detect.py --source ./Tree/Test160/images --weights ./runs/train/exp/weights/best.pt --conf 0.5
 ```
