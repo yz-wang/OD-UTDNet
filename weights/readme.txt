@@ -1,0 +1,1 @@
+YOLOV5s COCO pretrained weights (14.1MB)
