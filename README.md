@@ -41,7 +41,7 @@ For packages, see requirements.txt.
 ## UTD Dataset
 
 - Our UTD dataset is available at:
-1. Baidu Netdisk: https://pan.baidu.com/s/1TSY340mG2UvPNbbQh5MkbQ           
+1. Baidu Netdisk: https://pan.baidu.com/s/1FcJ6uJLlYkyjKCmvsnpgUQ        
 Code: xs7t
 
 2. Google Drive: https://drive.google.com/file/d/1BELIyg2YlE2JLIdEMz8M4if9gMZoPTRm/view?usp=sharing
